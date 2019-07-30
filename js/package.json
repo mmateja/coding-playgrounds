@@ -1,0 +1,14 @@
+{
+  "name": "js-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.mjs",
+  "scripts": {
+    "test": "node --experimental-modules script.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.26.1"
+  }
+}
